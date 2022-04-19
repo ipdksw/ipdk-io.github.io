@@ -41,6 +41,7 @@ in hours or possibly weeks or longer. How efficiently our community operates is 
 community developers interact with each other.
 * Patch authors, including core maintainers, may not vote +1 or +2 on their own patches.  They may vote -1 on
 their own patches to signify that the patch should not be committed.
+* Test line to check gerrit flow
 
 <a id="core"></a>
 ## Core Maintainers
